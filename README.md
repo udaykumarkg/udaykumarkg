@@ -3,7 +3,7 @@ Industrial Engineering & Management Student | Exploring Data, Supply Chains & Di
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykumar K G) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykumarkg3@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udaykumarKG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykumarkg3@gmail.com) 
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
